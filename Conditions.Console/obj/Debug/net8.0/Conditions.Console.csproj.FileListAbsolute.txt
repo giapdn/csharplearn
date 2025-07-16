@@ -1,0 +1,15 @@
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/bin/Debug/net8.0/Conditions.Console
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/bin/Debug/net8.0/Conditions.Console.deps.json
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/bin/Debug/net8.0/Conditions.Console.runtimeconfig.json
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/bin/Debug/net8.0/Conditions.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/bin/Debug/net8.0/Conditions.Console.pdb
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/obj/Debug/net8.0/Conditions.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/obj/Debug/net8.0/Conditions.Console.AssemblyInfoInputs.cache
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/obj/Debug/net8.0/Conditions.Console.AssemblyInfo.cs
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/obj/Debug/net8.0/Conditions.Console.csproj.CoreCompileInputs.cache
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/obj/Debug/net8.0/Conditions.Console.sourcelink.json
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/obj/Debug/net8.0/Conditions.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/obj/Debug/net8.0/refint/Conditions.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/obj/Debug/net8.0/Conditions.Console.pdb
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/obj/Debug/net8.0/Conditions.Console.genruntimeconfig.cache
+/Users/Administrator/Desktop/CsharpLearn/Conditions.Console/obj/Debug/net8.0/ref/Conditions.Console.dll

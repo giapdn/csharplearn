@@ -1,0 +1,15 @@
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/bin/Debug/net8.0/GetUserInput.Console
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/bin/Debug/net8.0/GetUserInput.Console.deps.json
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/bin/Debug/net8.0/GetUserInput.Console.runtimeconfig.json
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/bin/Debug/net8.0/GetUserInput.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/bin/Debug/net8.0/GetUserInput.Console.pdb
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/obj/Debug/net8.0/GetUserInput.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/obj/Debug/net8.0/GetUserInput.Console.AssemblyInfoInputs.cache
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/obj/Debug/net8.0/GetUserInput.Console.AssemblyInfo.cs
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/obj/Debug/net8.0/GetUserInput.Console.csproj.CoreCompileInputs.cache
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/obj/Debug/net8.0/GetUserInput.Console.sourcelink.json
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/obj/Debug/net8.0/GetUserInput.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/obj/Debug/net8.0/refint/GetUserInput.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/obj/Debug/net8.0/GetUserInput.Console.pdb
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/obj/Debug/net8.0/GetUserInput.Console.genruntimeconfig.cache
+/Users/Administrator/Desktop/CsharpLearn/GetUserInput.Console/obj/Debug/net8.0/ref/GetUserInput.Console.dll

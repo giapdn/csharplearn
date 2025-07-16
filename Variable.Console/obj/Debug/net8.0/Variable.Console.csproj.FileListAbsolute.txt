@@ -1,0 +1,15 @@
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/bin/Debug/net8.0/Variable.Console
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/bin/Debug/net8.0/Variable.Console.deps.json
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/bin/Debug/net8.0/Variable.Console.runtimeconfig.json
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/bin/Debug/net8.0/Variable.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/bin/Debug/net8.0/Variable.Console.pdb
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/obj/Debug/net8.0/Variable.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/obj/Debug/net8.0/Variable.Console.AssemblyInfoInputs.cache
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/obj/Debug/net8.0/Variable.Console.AssemblyInfo.cs
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/obj/Debug/net8.0/Variable.Console.csproj.CoreCompileInputs.cache
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/obj/Debug/net8.0/Variable.Console.sourcelink.json
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/obj/Debug/net8.0/Variable.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/obj/Debug/net8.0/refint/Variable.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/obj/Debug/net8.0/Variable.Console.pdb
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/obj/Debug/net8.0/Variable.Console.genruntimeconfig.cache
+/Users/Administrator/Desktop/CsharpLearn/Variable.Console/obj/Debug/net8.0/ref/Variable.Console.dll

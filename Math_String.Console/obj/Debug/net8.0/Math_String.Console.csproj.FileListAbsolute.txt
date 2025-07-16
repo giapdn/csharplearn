@@ -1,0 +1,15 @@
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/bin/Debug/net8.0/Math_String.Console
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/bin/Debug/net8.0/Math_String.Console.deps.json
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/bin/Debug/net8.0/Math_String.Console.runtimeconfig.json
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/bin/Debug/net8.0/Math_String.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/bin/Debug/net8.0/Math_String.Console.pdb
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/obj/Debug/net8.0/Math_String.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/obj/Debug/net8.0/Math_String.Console.AssemblyInfoInputs.cache
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/obj/Debug/net8.0/Math_String.Console.AssemblyInfo.cs
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/obj/Debug/net8.0/Math_String.Console.csproj.CoreCompileInputs.cache
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/obj/Debug/net8.0/Math_String.Console.sourcelink.json
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/obj/Debug/net8.0/Math_String.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/obj/Debug/net8.0/refint/Math_String.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/obj/Debug/net8.0/Math_String.Console.pdb
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/obj/Debug/net8.0/Math_String.Console.genruntimeconfig.cache
+/Users/Administrator/Desktop/CsharpLearn/Math_String.Console/obj/Debug/net8.0/ref/Math_String.Console.dll

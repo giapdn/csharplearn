@@ -1,0 +1,15 @@
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/bin/Debug/net8.0/Loops_Array.Console
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/bin/Debug/net8.0/Loops_Array.Console.deps.json
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/bin/Debug/net8.0/Loops_Array.Console.runtimeconfig.json
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/bin/Debug/net8.0/Loops_Array.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/bin/Debug/net8.0/Loops_Array.Console.pdb
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/obj/Debug/net8.0/Loops_Array.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/obj/Debug/net8.0/Loops_Array.Console.AssemblyInfoInputs.cache
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/obj/Debug/net8.0/Loops_Array.Console.AssemblyInfo.cs
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/obj/Debug/net8.0/Loops_Array.Console.csproj.CoreCompileInputs.cache
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/obj/Debug/net8.0/Loops_Array.Console.sourcelink.json
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/obj/Debug/net8.0/Loops_Array.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/obj/Debug/net8.0/refint/Loops_Array.Console.dll
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/obj/Debug/net8.0/Loops_Array.Console.pdb
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/obj/Debug/net8.0/Loops_Array.Console.genruntimeconfig.cache
+/Users/Administrator/Desktop/CsharpLearn/Loops_Array.Console/obj/Debug/net8.0/ref/Loops_Array.Console.dll
